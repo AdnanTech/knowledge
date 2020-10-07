@@ -57,43 +57,60 @@ TLDR: The most efficient way to learn is **active consumption**, reading it once
 * Good worry motivates you. Bad worry wastes your energy
 * Double check your answers. Look away, shift your attention, and then recheck
 
-### Learning How To Learn
+Elon Musk's advice is to view knowledge as a \(semantic\) tree. Making sure you start with the fundamental principles of a topic \(Trunk and big branches\), before you get into the smaller details \(leaves\), or there is nothing for the leaves \(details\) to hang onto
 
-There are two modes of thinking: a. Focused mode: Concentrating on things that are usually familiar. b. Diffused mode: A relaxed mode of thinking "your thoughts are free to wander". 1. When you learn something new, make sure to take time to rest, then come back to it and recall what you learnt. 2. This is very important. Don’t cram information in one day. This leads to inefficient learning. It’s like building a wall without letting it dry. 3. Revisiting and practicing what you learn is important. Research shows that spaced repetition \(repeating things after few days\) is the best way to build and strengthen the synaptic connections. 4. Sleep is very important. It clears the metabolic toxins from the brain after a day of "brain use". It is best to sleep directly after learning new things. 5. It was shown that exercising and/or being in a rich social environment helps your brain produce new neurons. Don’t lock yourself in your room. Stay active and spare time for exercise \(including general physical activities\) and friends daily.
+### Learning How To Learn Summary
 
-Turn off distractions. You want to use all the four slots of your working memory when studying. Learning will be inefficient if some of those slots are connected to something else.
+* There are two modes of thinking: 
+  * **Focused mode:** Concentrating on things that are usually familiar
+  * **Diffused mode:** A relaxed mode of thinking "your thoughts are free to wander"
+* When you learn something new, make sure to take time to rest, then come back to it and recall what you learnt
+* This is very important. **Don’t cram** information in one day. This leads to inefficient learning. It’s like building a wall without letting it dry
+* **Revisiting** and practicing what you learn is important. Research shows that **spaced repetition** \(repeating things after few days\) is the best way to build and strengthen the synaptic connections
+* **Sleep** is very important. It clears the metabolic toxins from the brain after a day of "brain use". It is best to sleep directly after learning new things
+* It was shown that **exercising** and/or being in a **rich social environment** helps your brain produce new neurons. Don’t lock yourself in your room. Stay active and spare time for exercise \(including general physical activities\) and friends daily.
 
-You have to solve the problem yourself. Just because you see it, or even understand it, doesn't mean that you will be able to solve it \(Illusion of competence\). It is always easier to look at the material, even if you think it’s easy, then doing it yourself.
+**Turn off distractions**. You want to use all the four slots of your working memory when studying. Learning will be inefficient if some of those slots are connected to something else.
 
-It gets easier. When you think that a chapter or a book has too much information and that there’s no way to go through them all; just focus on whatever section you’re studying. You’ll find that once you put that first concept in your mental library, the following one will be easier. This concept is called Transfer; a chunk you have mastered in one area can often help you much more easily learn other chunks of information in different areas.
+**You have to solve the problem yourself**. Just because you see it, or even understand it, doesn't mean that you will be able to solve it \(**Illusion of competence**\). It is always easier to look at the material, even if you think it’s easy, then doing it yourself.
 
-Master the major idea and then start getting deeper. However, make sure not to get stuck in some details before having a general idea. Practice to help yourself gain mastery and sense of the big picture context. Try taking a "picture walk" before you dig through the material, this means, look briefly at the pictures, chapter titles, formulas used… before diving into details.
+**It gets easier**. When you think that a chapter or a book has too much information and that there’s no way to go through them all; just focus on whatever section you’re studying. You’ll find that once you put that first concept in your mental library, the following one will be easier. This concept is called **Transfer**; a chunk you have mastered in one area can often help you much more easily learn other chunks of information in different areas.
 
-Recall mentally without looking at the material. This is proven more effective than to simply rereading. Reread only after you try to recall and write down what was in the material. Consider recalling when you are in different places to become independent of the cues from any giving location. This will help you when taking a test in the class.
+**Master the major idea** and then start getting deeper. However, make sure not to get stuck in some details before having a general idea. Practice to help yourself gain mastery and sense of the big picture context. Try taking a "picture walk" before you dig through the material, this means, look briefly at the pictures, chapter titles, formulas used… before diving into details.
 
-Test yourself to make sure you are actually learning and not fooling yourself into learning. Mistakes are a good thing. They allow you to catch illusions of competence.
+**Recall mentally** without looking at the material. This is proven more effective than to simply rereading. Reread only after you try to recall and write down what was in the material. Consider recalling when you are in **different places** to become independent of the cues from any giving location. This will help you when taking a test in the class.
 
-Don’t always trust your initial intuition. Einstellung problem \(a German word for Mindset\). An idea or a neural pattern you developed might prevent a new better idea from being found. Sometimes your initial intuition on what you need to be doing is misleading. You've to unlearn old ideas and approaches as you are learning new ones.
+**Test yourself** to make sure you are actually learning and not fooling yourself into learning. Mistakes are a good thing. They allow you to catch illusions of competence.
 
-Mix up the problems \(Interleaving\) from different chapters. This is helpful to create connections between your chunks. It can make your learning a bit more difficult, but it helps you learn more deeply. Interleaving is very important. It is where you leave the world of practice and repetition, and begin thinking more independently.
+**Don’t always trust your initial intuition**. Einstellung problem \(a German word for Mindset\). An idea or a neural pattern you developed might prevent a new better idea from being found. Sometimes your initial intuition on what you need to be doing is misleading. You've to unlearn old ideas and approaches as you are learning new ones.
 
-Don’ts: • Highlighting too much and creating maps are often ineffective without recalling. • Repeating something you already learnt or know very well is easy. It can bring the illusion of competence; that you’ve mastered the full material when you actually just know the easy stuff. Balance your studies and focus on the more difficult \(deliberate practice\). This sets the difference between a good student and a great student. • A big mistake is to blindly start working on an exercise without reading the textbook or attending the class. This is a recipe of sinking. It’s like randomly allowing a thought to pop off in the focus mode without paying attention to where the solution truly lies.
+**Mix up the problems \(Interleaving\)** from different chapters. This is helpful to create connections between your chunks. It can make your learning a bit more difficult, but it helps you learn more deeply. Interleaving is very important. It is where you leave the world of practice and repetition, and begin thinking more independently.
 
-The first time you do something the stream of information coming at you would make the job seem almost impossibly difficult. But, once you've chunked it, it will be simple. At first, it's really hard, later it's easy. It becomes like a habit. A good example is driving, for the first time, it's very hard, now its very easy.
+Don’ts:
 
-Weekly/daily lists are important. Researchers showed that writing your daily/weekly list the evening before helps you accomplish them the next day. If you don’t write them down, they will take the valuable slots of memory. Plan your finishing time, this is as important as planning your working time. Work in the most important and most disliked task first, even if it’s only one pomodoro. Take notes about what works and what doesn’t. Have a backup plan for when you will still procrastinate.
+* Highlighting too much and creating maps are often ineffective without recalling
+* Repeating something you already learnt or know very well is easy. It can bring the illusion of competence; that you’ve mastered the full material when you actually just know the easy stuff. Balance your studies and focus on the more difficult \(**deliberate practice**\). This sets the difference between a good student and a great student
+* A big mistake is to blindly start working on an exercise without reading the textbook or attending the class. This is a recipe of sinking. It’s like randomly allowing a thought to pop off in the focus mode without paying attention to where the solution truly lies
 
-Focus on the process. You should realize that it’s perfectly normal to start a learning session with a negative feeling even if you like the subject. It’s how you handle those feelings that matters. Solution: Focus on the process, not the product. The product is what triggers the pain that causes you to procrastinate. Instead of saying "I will solve this task today", put your best effort for a period of time continuously over the days.
+The **first time** you do something the stream of information coming at you would make the job seem almost impossibly difficult. But, once you've chunked it, it will be simple. At first, it's really hard, later it's easy. It becomes like a habit. A good example is driving, for the first time, it's very hard, now its very easy
 
-> > Learnt a lot on memory and habits here, check the sub topics for more.
+**Weekly/daily lists** are important. Researchers showed that writing your daily/weekly list the **evening before** helps you accomplish them the next day. If you don’t write them down, they will take the valuable slots of memory. Plan your finishing time, this is as important as planning your working time. Work in the most important and most disliked task first, even if it’s only one pomodoro. Take notes about what works and what doesn’t. Have a backup plan for when you will still procrastinate
 
-Metaphors and analogies are very helpful, not only to memorize, but to also understand different concepts. It is often helpful to pretend that you are the concept you’re trying to understand.
+**Focus on the process.** You should realize that it’s perfectly normal to start a learning session with a negative feeling even if you like the subject. It’s how you handle those feelings that matters. Solution: Focus on the process, not the product. The product is what triggers the pain that causes you to procrastinate. Instead of saying "I will solve this task today", put your best effort for a period of time continuously over the days.
 
-Intelligence does matter. Being smart usually equate to having a large working memory \(more than just four slots\). However, a super working memory can hold its thoughts so tightly that new thoughts won’t easily find a way into the brain. Such a tightly controlled attention could use an occasional breath of ADHD. You attention shifts even if you don’t want it to shift. Deliberate practice is what helps the average brain lift into the realm of those naturally gifted. Practicing certain mental patterns deepens your mind. Brilliant scientist like Ramón y Cajal, the father of neuroscience, or Charles Darwin, were not exceptionally gifted. The key to their success was perseverance, taking responsibility for their learning and changing their thoughts. Take pride in the qualities you excel at. Tune people out if they try to demean your efforts.
+**Metaphors and analogies are very helpful**, not only to memorize, but to also understand different concepts. It is often helpful to pretend that you are the concept you’re trying to understand.
 
-Learning doesn't always progress linearly and logically. Inevitably your brain will hit a knowledge-collapse sometimes. This usually means your brain is restructuring its understanding, building a more solid foundation. You learn complex concepts by trying to make sense out of the information you perceive. Not by having someone else telling it to you.
+**Intelligence does matter.** Being smart usually equate to having a large working memory \(more than just four slots\). However, a super working memory can hold its thoughts so tightly that new thoughts won’t easily find a way into the brain. Such a tightly controlled attention could use an occasional breath of ADHD. You attention shifts even if you don’t want it to shift. Deliberate practice is what helps the average brain lift into the realm of those naturally gifted. Practicing certain mental patterns deepens your mind. Brilliant scientist like Ramón y Cajal, the father of neuroscience, or Charles Darwin, were not exceptionally gifted. The key to their success was perseverance, taking responsibility for their learning and changing their thoughts. Take pride in the qualities you excel at. Tune people out if they try to demean your efforts.
 
-It’s normal to feel like there is always more to learn, that’s usually because there is, but don’t forget to constantly make summaries and/or recall material to not forget the information about the topic
+**Learning doesn't always progress linearly and logically**. Inevitably your brain will hit a knowledge-collapse sometimes. This usually means your brain is restructuring its understanding, building a more solid foundation. You learn complex concepts by trying to make sense out of the information you perceive. Not by having someone else telling it to you.
 
-The order for most effective study routines: 1st is rehearsal and testing, 2nd is testing with no rehearsal, and 3rd is rehearsal with no testing.
+**It’s normal to feel like there is always more to learn**, that’s usually because there is, but don’t forget to constantly make summaries and/or recall material to not forget the information about the topic
+
+The order for most effective study routines: 
+
+* 1st is rehearsal and testing
+* 2nd is testing with no rehearsal
+* 3rd is rehearsal with no testing
+
+### Sources
 
