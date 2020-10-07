@@ -3,5 +3,6 @@
 * [Initial page](README.md)
 * [Meta](meta.md)
 * [Math](math.md)
-* [Metacognition](metacognition.md)
+* [Metacognition](metacognition/README.md)
+  * [Learning](metacognition/learning.md)
 
