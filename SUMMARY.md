@@ -8,5 +8,6 @@
   * [Memory](metacognition/untitled.md)
   * [Sleep](metacognition/sleep.md)
   * [Habits](metacognition/untitled-1.md)
+  * [Flashcards](metacognition/flashcards.md)
   * [Nootropics](metacognition/untitled-2.md)
 
