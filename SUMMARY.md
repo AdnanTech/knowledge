@@ -6,5 +6,6 @@
 * [Metacognition](metacognition/README.md)
   * [Learning](metacognition/learning.md)
   * [Memory](metacognition/untitled.md)
-  * [Untitled](metacognition/untitled-1.md)
+  * [Habits](metacognition/untitled-1.md)
+  * [Untitled](metacognition/untitled-2.md)
 

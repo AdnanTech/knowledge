@@ -64,6 +64,16 @@ The only way to deliberately maintain your ability to recall the specific knowle
 * Do I find this surprising? Why is that or why is that not the case?
 * How can I apply this in the real world?
 
+### Nutrition and Lifestyle
+
+memory can be improved by:
+
+* Exercise, 
+* Diet \(vitamins b12 and b6\)
+* Brain games
+* Meditation 
+* and  a lot more \(refer to harvard studies\).
+
 ### Sources
 
 * [The brain's unlimited capacity \(Article\)](https://www.livescience.com/53751-brain-could-store-internet.html)
