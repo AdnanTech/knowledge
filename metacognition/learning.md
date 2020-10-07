@@ -8,7 +8,7 @@ description: >-
 
 ### Framework
 
-TLDR: The most efficient way to learn is **active consumption**, reading it once until you understand all the **core concepts** thoroughly and have written down facts, in a condensed format. We can store at once, **4 chunks** of information in our **short term memory**. Effective ways to consume information is using **pomdoros**, **asking questions**, **exercising** and working in a **team environment**.
+**TLDR:** The most efficient way to learn is **active consumption**, reading it once until you understand all the **core concepts** thoroughly and have written down facts, in a condensed format. We can store at once, **4 chunks** of information in our **short term memory**. Effective ways to consume information is using **pomdoros**, **asking questions**, **exercising** and working in a **team environment**.
 
 **Learning is the acquisition of information**, cells of the nervous system are called neurons. Information from one neuron flows to another neuron across a _synapse_. The human brain has a million billion synapses. Your brain creates synapses whenever you learn something new. Sleeping helps "update" your brain cells.
 
@@ -50,14 +50,14 @@ TLDR: The most efficient way to learn is **active consumption**, reading it once
 
 **Taking Test Tips**:
 
-* Being Stressed before a test is normal. The body puts ups out chemicals when it’s under stress. How you interpret the body reaction to those chemicals makes all the difference
-  * Shift your thinking from "I am afraid of this test" to “I am excited to do my best”
-* If you are stressed during a test, turn your attention to breathing. Relax, put your hand on your stomach and slowly draw some deep breaths. This will calm you down
-* Relax your brain on the last day before a test. Have a quick final look at the materials. Feeling guilty the last day is a natural reaction even if you prepared well. So relax
-* Good worry motivates you. Bad worry wastes your energy
-* Double check your answers. Look away, shift your attention, and then recheck
+* Being Stressed before a test is normal. The body puts ups out chemicals when it’s under stress. How you interpret the body reaction to those chemicals makes all the difference.
+  * Shift your thinking from "I am afraid of this test" to “I am excited to do my best”.
+* If you are stressed during a test, turn your attention to breathing. Relax, put your hand on your stomach and slowly draw some deep breaths. This will calm you down.
+* Relax your brain on the last day before a test. Have a quick final look at the materials. Feeling guilty the last day is a natural reaction even if you prepared well. So relax.
+* Good worry motivates you. Bad worry wastes your energy.
+* Double check your answers. Look away, shift your attention, and then recheck.
 
-Elon Musk's advice is to view knowledge as a \(semantic\) tree. Making sure you start with the fundamental principles of a topic \(Trunk and big branches\), before you get into the smaller details \(leaves\), or there is nothing for the leaves \(details\) to hang onto
+Elon Musk's advice is to view knowledge as a \(semantic\) tree. Making sure you start with the fundamental principles of a topic \(Trunk and big branches\), before you get into the smaller details \(leaves\), or there is nothing for the leaves \(details\) to hang onto.
 
 ### Learning How To Learn Summary
 
@@ -76,7 +76,7 @@ Elon Musk's advice is to view knowledge as a \(semantic\) tree. Making sure you 
 
 **It gets easier**. When you think that a chapter or a book has too much information and that there’s no way to go through them all; just focus on whatever section you’re studying. You’ll find that once you put that first concept in your mental library, the following one will be easier. This concept is called **Transfer**; a chunk you have mastered in one area can often help you much more easily learn other chunks of information in different areas.
 
-**Master the major idea** and then start getting deeper. However, make sure not to get stuck in some details before having a general idea. Practice to help yourself gain mastery and sense of the big picture context. Try taking a "picture walk" before you dig through the material, this means, look briefly at the pictures, chapter titles, formulas used… before diving into details.
+**Master the major idea** and then start getting deeper. However, make sure not to get stuck in some details before having a general idea. Practice to help yourself gain mastery and sense of the big picture context. Try taking a "picture walk" before you dig through the material, this means, look briefly at the pictures, chapter titles, formulas used etc… before diving into details.
 
 **Recall mentally** without looking at the material. This is proven more effective than to simply rereading. Reread only after you try to recall and write down what was in the material. Consider recalling when you are in **different places** to become independent of the cues from any giving location. This will help you when taking a test in the class.
 
@@ -86,15 +86,15 @@ Elon Musk's advice is to view knowledge as a \(semantic\) tree. Making sure you 
 
 **Mix up the problems \(Interleaving\)** from different chapters. This is helpful to create connections between your chunks. It can make your learning a bit more difficult, but it helps you learn more deeply. Interleaving is very important. It is where you leave the world of practice and repetition, and begin thinking more independently.
 
-Don’ts:
+### Don'ts:
 
-* Highlighting too much and creating maps are often ineffective without recalling
-* Repeating something you already learnt or know very well is easy. It can bring the illusion of competence; that you’ve mastered the full material when you actually just know the easy stuff. Balance your studies and focus on the more difficult \(**deliberate practice**\). This sets the difference between a good student and a great student
-* A big mistake is to blindly start working on an exercise without reading the textbook or attending the class. This is a recipe of sinking. It’s like randomly allowing a thought to pop off in the focus mode without paying attention to where the solution truly lies
+* Highlighting too much and creating maps are often ineffective without recalling.
+* Repeating something you already learnt or know very well is easy. It can bring the illusion of competence; that you’ve mastered the full material when you actually just know the easy stuff. Balance your studies and focus on the more difficult \(**deliberate practice**\). This sets the difference between a good student and a great student.
+* A big mistake is to blindly start working on an exercise without reading the textbook or attending the class. This is a recipe of sinking. It’s like randomly allowing a thought to pop off in the focus mode without paying attention to where the solution truly lies.
 
-The **first time** you do something the stream of information coming at you would make the job seem almost impossibly difficult. But, once you've chunked it, it will be simple. At first, it's really hard, later it's easy. It becomes like a habit. A good example is driving, for the first time, it's very hard, now its very easy
+The **first time** you do something the stream of information coming at you would make the job seem almost impossibly difficult. But, once you've chunked it, it will be simple. At first, it's really hard, later it's easy. It becomes like a habit. A good example is driving, for the first time, it's very hard, now its very easy.
 
-**Weekly/daily lists** are important. Researchers showed that writing your daily/weekly list the **evening before** helps you accomplish them the next day. If you don’t write them down, they will take the valuable slots of memory. Plan your finishing time, this is as important as planning your working time. Work in the most important and most disliked task first, even if it’s only one pomodoro. Take notes about what works and what doesn’t. Have a backup plan for when you will still procrastinate
+**Weekly/daily lists** are important. Researchers showed that writing your daily/weekly list the **evening before** helps you accomplish them the next day. If you don’t write them down, they will take the valuable slots of memory. Plan your finishing time, this is as important as planning your working time. Work in the most important and most disliked task first, even if it’s only one pomodoro. Take notes about what works and what doesn’t. Have a backup plan for when you will still procrastinate.
 
 **Focus on the process.** You should realize that it’s perfectly normal to start a learning session with a negative feeling even if you like the subject. It’s how you handle those feelings that matters. Solution: Focus on the process, not the product. The product is what triggers the pain that causes you to procrastinate. Instead of saying "I will solve this task today", put your best effort for a period of time continuously over the days.
 
@@ -106,7 +106,7 @@ The **first time** you do something the stream of information coming at you woul
 
 **It’s normal to feel like there is always more to learn**, that’s usually because there is, but don’t forget to constantly make summaries and/or recall material to not forget the information about the topic
 
-The order for most effective study routines: 
+### The order for most effective study routines: 
 
 * 1st is rehearsal and testing
 * 2nd is testing with no rehearsal
@@ -118,4 +118,6 @@ The order for most effective study routines:
 * [Elon Musk's advice from his AMA](https://i.imgur.com/AB4o6HS.png)
 * [Difference between knowledge and information](https://www.quora.com/What-is-the-difference-between-information-and-knowledge)
 * [Why exercise is OP](https://www.fastcompany.com/3037894/how-exercise-changes-your-brain-to-be-better-at-basically-everything)
+* [The Art of Learning: An Inner Journey to Optimal Performance by Josh Waitzkin](https://www.amazon.co.uk/Art-Learning-Journey-Optimal-Performance/dp/0743277465)
+* [9 Lessons About Learning How to Learn \(Medium\)](https://medium.com/swlh/9-lessons-about-learning-how-to-learn-e90ef2d8d41c)
 
