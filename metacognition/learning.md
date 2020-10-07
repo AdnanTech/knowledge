@@ -8,7 +8,7 @@ description: >-
 
 ### Framework
 
-TLDR: The most efficient way to learn is **active consumption**, reading it once until you understand all the **core concepts** thoroughly and have written down facts, in a condensed format. We can store at once, **4 chunks** of information in our **short term memory**. Effective ways to consume information is using **pomdoros**, **asking questions**, **exercising** and working in a **team environment**.
+**TLDR:** The most efficient way to learn is **active consumption**, reading it once until you understand all the **core concepts** thoroughly and have written down facts, in a condensed format. We can store at once, **4 chunks** of information in our **short term memory**. Effective ways to consume information is using **pomdoros**, **asking questions**, **exercising** and working in a **team environment**.
 
 **Learning is the acquisition of information**, cells of the nervous system are called neurons. Information from one neuron flows to another neuron across a _synapse_. The human brain has a million billion synapses. Your brain creates synapses whenever you learn something new. Sleeping helps "update" your brain cells.
 
