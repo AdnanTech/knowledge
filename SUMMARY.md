@@ -2,6 +2,7 @@
 
 * [Meta](README.md)
 * [Computer Science](computer-science.md)
+* [Mathematics](mathematics.md)
 * [Neuroscience](neuroscience/README.md)
   * [Metacognition](neuroscience/metacognition/README.md)
     * [Learning](neuroscience/metacognition/learning.md)
