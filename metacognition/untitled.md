@@ -66,13 +66,13 @@ The only way to deliberately maintain your ability to recall the specific knowle
 
 ### Nutrition and Lifestyle
 
-memory can be improved by:
+Memory can be improved by lifestyle choices:
 
-* Exercise, 
-* Diet \(vitamins b12 and b6\)
+* Exercise
+* Diet \(namely vitamins b12 and b6\)
 * Brain games
 * Meditation 
-* and  a lot more \(refer to harvard studies\).
+* and a lot more \(refer to harvard studies\)
 
 ### Sources
 
