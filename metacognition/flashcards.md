@@ -1,7 +1,5 @@
 # Flashcards
 
-
-
 **Flashcards** are arguably, the best source for increasing memory-retireval of a topic you are already knowledgeable about. **Retrieval practice.**
 
 ### **2 key concepts when making flashcards:**
@@ -40,22 +38,22 @@
 **For practicing flashcards:**
 
 * **Don’t turn over flashcard until you can answer it**, or have tried your absolute hardest to answer it, even a failed attempt makes you remember the answer better next time
-* Use tags to group topics, so you can target flashcards from different topics when need be 
-* Use spaced repetition AND manually study your recalls, this means going beyond just recalling the daily selected flash cards, review topics you feel weak on. 
-* If on the go, use the anki app
-* Respond to flashcards out loud, promotes metacognition
-* Type out the answer of the flash card before you answer it. Then compare, whilst not optimal on the go, if at a desk or whatever then use this technique.
-* Edit cards when you have a better understanding of a topic, highlight parts that are hard, refactor the flashcard set.
-* If you really struggle to answer, read the notes in the personal wiki on the topic, or online sources.
-* Variate study time, by being in new environments you create new patterns and strengthen the patterns that already exist
-* Practicing before you sleep is every effective to consolidate memory. 
-* Break up flash cards sessions - if you have one hundred to do in the day, do 50 in the morning and 50 after dinner, this prevents losing focus
+* **Use tags to group topics**, so you can target flashcards from **different topics** when need be 
+* Use **spaced repetition** AND **manually study your recalls**, this means going beyond just recalling the daily selected flash cards, review topics you feel weak on. 
+* If on the go, use the **anki app**
+* Respond to **flashcards out loud**, promotes metacognition
+* **Type out the answer of the flash card before you answer it**. Then compare, whilst not optimal on the go, if at a desk or whatever then use this technique.
+* **Edit cards when you have a better understanding of a topic**, highlight parts that are hard, refactor the flashcard set.
+* If you really struggle to answer, read the notes on the topic, or online sources.
+* **Variate study time**, by being in new environments you create new patterns and strengthen the patterns that already exist
+* Practicing **before you sleep is very effective** to consolidate memory. 
+* **Break up flash cards sessions.** if you have one hundred to do in the day, do 50 in the morning and 50 after dinner, this prevents losing focus
 
 **For large collections of items:**
 
-* First thing is to identify if it’s a set or an enumeration, as enumerations are harder. A set is a collection of objects that are related, where the order doesn’t matter. An enumeration is a list of objects where the order does matter. For example, list of fruits is a set, pi to 10 digits is an enumeration
-* Break it down into smaller flashcards, as subsets of the larger set. So fill in the blanks, or breaking down the set into a few specific sets.
-* Use mnemonics
+* First thing is to identify if it’s a **set** or an **enumeration**, as enumerations are harder. A set is a collection of objects that are related, where the order doesn’t matter. An enumeration is a list of objects where the order does matter. For example, list of fruits is a set, pi to 10 digits is an enumeration
+* **Break it down into smaller flashcards**, as subsets of the larger set. So fill in the blanks, or breaking down the set into a few specific sets.
+* Use **mnemonics**
 
 ### Sources
 
