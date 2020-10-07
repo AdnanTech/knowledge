@@ -114,3 +114,8 @@ The order for most effective study routines:
 
 ### Sources
 
+* [Learning How To Learn \(Book, Course, Ted Talk\) by Barbara Oakley](https://www.youtube.com/watch?v=O96fE1E-rf8)
+* [Elon Musk's advice from his AMA](https://i.imgur.com/AB4o6HS.png)
+* [Difference between knowledge and information](https://www.quora.com/What-is-the-difference-between-information-and-knowledge)
+* [Why exercise is OP](https://www.fastcompany.com/3037894/how-exercise-changes-your-brain-to-be-better-at-basically-everything)
+
