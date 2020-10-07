@@ -28,8 +28,7 @@
 * Use **humour**, **real world** or **personal examples** to remember it better
 * Flashcards should be either **what you want or need to remember,** and should only those concepts.
 * Create flashcards that **have the answer first,** and some that have the question first. A good example of this would be for pseudocode. On one side have the algorithm, and on the other side have the algorithm name. would work especially well with searches and sorts.
-* Break down **bigger concepts into smaller pieces to flashcard**. So operating systems are a big thing, break it down into unix, unix like and non unix, then break it down further to talk about ubuntu and macOS, as apposed to Windows and such. 
-* **Use tags** for your flashcards, this can make **grouping them** easier to see weaker areas 
+* Break down **bigger concepts into smaller pieces to flashcard**. So operating systems are a big thing, break it down into unix, unix like and non unix, then break it down further to talk about ubuntu and macOS, as apposed to Windows and such.
 * Add a metacognitive **question at the end of the answer**, to make sure you are paying attention and connecting the concepts you are learning about the other concepts. For example, if we ask a question about Linux, at the end of the question, ask how linux has impacted the industry and such. 
 * Fill in the blanks can be effective, but they're like training wheels for learning.
 * **Open ended questions** or multiple choice are better than fill in the blanks, as it challenges you more, so makes the brain connect the synapses stronger.
@@ -40,7 +39,7 @@
 
 **For practicing flashcards:**
 
-* Don’t turn over flashcard until you can answer it, or have tried your absolute hardest to answer it, even a failed attempt makes you remember the answer better next time
+* **Don’t turn over flashcard until you can answer it**, or have tried your absolute hardest to answer it, even a failed attempt makes you remember the answer better next time
 * Use tags to group topics, so you can target flashcards from different topics when need be 
 * Use spaced repetition AND manually study your recalls, this means going beyond just recalling the daily selected flash cards, review topics you feel weak on. 
 * If on the go, use the anki app
@@ -60,8 +59,8 @@
 
 ### Sources
 
-* [David Hansell - one of my favourite researches in the cognitive researching discipline](https://medium.com/@iDoRecall)
+* [David Handel - one of my favourite researches in the cognitive researching discipline](https://medium.com/@iDoRecall)
 * [Med School advice to make flashcards](https://www.yousmle.com/med-school-anki/)
 * [Understanding How We Learn by Dr Yana Weinstein and Dr Megan Sumeracki](https://www.learningscientists.org/book)
-* [Great blog post by David Hansell](https://www.learningscientists.org/blog/2020/4/2-1)
+* [Great blog post by David Handel](https://www.learningscientists.org/blog/2020/4/2-1)
 
