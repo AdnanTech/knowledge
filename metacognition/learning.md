@@ -8,7 +8,7 @@ description: >-
 
 ### Framework
 
-**TLDR:** The most efficient way to learn is **active consumption**, reading it once until you understand all the **core concepts** thoroughly and have written down facts, in a condensed format. We can store at once, **4 chunks** of information in our **short term memory**. Effective ways to consume information is using **pomdoros**, **asking questions**, **exercising** and working in a **team environment**.
+TLDR: The most efficient way to learn is **active consumption**, reading it once until you understand all the **core concepts** thoroughly and have written down facts, in a condensed format. We can store at once, **4 chunks** of information in our **short term memory**. Effective ways to consume information is using **pomdoros**, **asking questions**, **exercising** and working in a **team environment**.
 
 **Learning is the acquisition of information**, cells of the nervous system are called neurons. Information from one neuron flows to another neuron across a _synapse_. The human brain has a million billion synapses. Your brain creates synapses whenever you learn something new. Sleeping helps "update" your brain cells.
 
@@ -118,6 +118,4 @@ The order for most effective study routines:
 * [Elon Musk's advice from his AMA](https://i.imgur.com/AB4o6HS.png)
 * [Difference between knowledge and information](https://www.quora.com/What-is-the-difference-between-information-and-knowledge)
 * [Why exercise is OP](https://www.fastcompany.com/3037894/how-exercise-changes-your-brain-to-be-better-at-basically-everything)
-* [The Art of Learning: An Inner Journey to Optimal Performance by Josh Waitzkin](https://www.amazon.co.uk/Art-Learning-Journey-Optimal-Performance/dp/0743277465)
-* [9 Lessons About Learning How to Learn \(Medium\)](https://medium.com/swlh/9-lessons-about-learning-how-to-learn-e90ef2d8d41c)
 

@@ -17,27 +17,57 @@ We are blessed with a nearly **unlimited storage capacity for memories**, but wh
 Memory consists of **2 main concepts:**
 
 1. **The knowledge-acquisition phase**, which is powered by metacognition. Here you’ll consume learning materials in a new way that will enable you to not only store them in memory but retrieve them at will, which leads to step 2
-2. A perpetual **knowledge-maintenance plan** based on practicing accessing what you’ve learned and spacing out these practices over time. \(Yes, this is what we mean by spaced repetition! Figure 2. - graph of retention
+2. A perpetual **knowledge-maintenance plan** based on practicing accessing what you’ve learned and spacing out these practices over time. \(Yes, this is what we mean by spaced repetition! Refer to the graph of retention.
 
 **Ways to memorise:**
 
-The only way to deliberately maintain your ability to recall the specific knowledge you want to remember is to purposely maintain your memories through retrieval practice. Retrieval practice can be carried out by using flashcards. This is especially handy since you can do it on your own, any time that you desire. Practice can also be achieved by studying with friends or in school when your teacher tests you during classroom discussions, quizzes, or exams. Flashcards are my go-to for the things that I want to remember forever. Flashcards and retrieval practice is the testing effect, which has been proven lots of times in cognitive science research.
+The only way to deliberately maintain your ability to recall the specific knowledge you want to remember is to purposely maintain your memories through **retrieval practice**. Retrieval practice can be carried out by using **flashcards**. This is especially handy since you can do it on your own, any time that you desire. Practice can also be achieved by **studying with friends** or in school when your teacher **tests** you during **classroom discussions**, **quizzes**, or **exams**.Flashcards and retrieval practice is the testing effect, which has been proven lots of times in cognitive science research.
 
-Flashcards are only for strengthen recall ability, they should never be used for learning something in the first place, that is where the parse, comprehend and extraction should see fit.
+**Flashcards are only for strengthen recall ability**, they should **never be used for learning** something in the first place, that is where the parse, comprehend and extraction should see fit.
 
-Retrieval practice works because when you retrieve a memory, you strengthen the ability to recall it. When we practice retrieval, we strengthen our ability to recall that memory. This is because we strengthen the synaptic connections of the memory’s engram.
+**Retrieval practice** works because when you retrieve a memory, you strengthen the ability to recall it. When we practice retrieval, we strengthen our ability to recall that memory. This is because we **strengthen the synaptic connections** of the memory’s [engram](https://www.cell.com/neuron/pdf/S0896-6273%2815%2900677-7.pdf).
 
-Spaced repetition should practice a small subset of a large collection of flashcards, each day. If you have, say 20,000 flash cards, you should review around 100 a day, there is a specific algorithm to spacing repetition of flash cards.
+**Spaced repetition** should practice **a small subset** of a **large collection** of flashcards, each day. If you have, say 20,000 flash cards, you should review around 100 a day, there is a specific algorithm to spacing repetition of flash cards.
 
-Active learning is where you are reading information for one time preferably, and actively trying to understand core concepts, facts and illustrations. This is much more effective than passive learning, which entails re-reading books.
+**Active learning** is where you are reading information for one time preferably, and actively trying to understand core concepts, facts and illustrations. This is much more effective than passive learning, which entails re-reading books.
 
-NOTE: These methods are intended for academic information, I am yet to apply these ideas to the real world. Best methods to remember and learn information: • Spaced repetition, see graph of retention Below is talking about actively consuming and comprehending material, which is how to learn information for the very first time • DO NOT re-consume information, this includes highlighting passages you have read, re-watching videos, re-listening to a lecture, this is passive consumption and thus does not add a lot of information, to learn and memorise, make it an active process, not passive. • Parse, comprehend and extract the important concepts, facts, central themes, and procedural knowledge we need, discard the rest. How well you filter out the garbage depends on your focus. • Concepts require you to expend the greatest metacognitive effort. Concepts are abstractions that often help organize facts and ideas into a system of understanding. Conceptual knowledge can be difficult to comprehend and “wrap your head around” on a first pass. • ONLY READ IT ONCE, you can re-read it for your first and only time, to truly understand and reconstruct core concepts, this applies the metacognition. Creating a mental model after you have thought about the concept, will wrap your head around the concepts you are trying to learn, this is where you are most actively learning. Only re-read when you have forgotten something. • Facts, phrases, sentences, pictures and sections should be linked to concepts via spaced-repetition flashcards. If you cannot recall the flashcard, go to your notes and re-read the passage. • If you do not understand the information/concept, look for multiple sources of the information/concept over google, that way no time is spent re-reading old information.
+### Best methods to remember and learn information: 
 
-Questions during active consumption to comprehend information: These are things to ask yourself whilst consuming the information. The what's come first • What are the important facts? • What are the core concepts? • What do I understand? • What don’t I comprehend?
+* **Spaced repetition**, see graph of retention 
+* **DO NOT re-consume information,** this includes highlighting passages you have read, re-watching videos, re-listening to a lecture, this is passive consumption and thus does not add a lot of information, to learn and memorise, make it an active process, not passive.
+* **Parse**, comprehend and extract the i**mportant concepts**, facts, central themes, and procedural knowledge we need, discard the rest. How well you filter out the garbage depends on your focus.
+* **Concepts require** you to expend the **greatest metacognitive effort**. Concepts are abstractions that often help organize facts and ideas into a system of understanding. Conceptual knowledge can be difficult to comprehend and “wrap your head around” on a first pass.
+* **ONLY READ IT ONCE**, you can re-read it for your first and only time, to truly understand and reconstruct core concepts, this applies the metacognition. Creating a mental model after you have thought about the concept, will wrap your head around the concepts you are trying to learn, this is where you are most actively learning. Only re-read when you have forgotten something.
+* **Facts, phrases, sentences, pictures and sections should be linked to concepts via spaced-repetition flashcards**. If you cannot recall the flashcard, go to your notes and re-read the passage.
+* If you do not understand the information/concept, **look for multiple sources** of the information/concept over google, that way no time is spent re-reading old information.
 
-Some generic questions that can be scored, although they should be tailored to the content • How would I briefly summarize this? What are the key concepts? • Does this remind me of anything that I already know in this domain of knowledge? • Does this remind me of anything in another unrelated domain of knowledge? • What other things do I know that support the veracity of this concept? • Can I think of anything else I know that contradicts this concept? • Do I know any concrete or practical examples that illustrate or illuminate this concept? • How challenging is it for me to comprehend this? • If this is a WHAT, can I explain the WHY? \(or vice versa, as applicable\) • Why is this so important to know? • Do I find this interesting? Why is that the case, or why not? • Do I find this surprising? Why is that or why is that not the case? • How can I apply this in the real world?
+**Questions during active consumption to comprehend information:**
 
-Sources
+* The what's come first:
+  * What are the important facts?
+  * What are the core concepts?
+  * What do I understand?
+  * What don’t I comprehend?
+
+**Some generic questions that can be scored, although they should be tailored to the content**
+
+* How would I briefly summarize this?
+* What are the key concepts?
+* Does this remind me of anything that I already know in this domain of knowledge?
+* Does this remind me of anything in another unrelated domain of knowledge?
+* What other things do I know that support the veracity of this concept? • Can I think of anything else I know that contradicts this concept?
+* Do I know any concrete or practical examples that illustrate or illuminate this concept?
+* How challenging is it for me to comprehend this?
+* If this is a WHAT, can I explain the WHY? \(or vice versa, as applicable\)
+* Why is this so important to know?
+* Do I find this interesting? Why is that the case, or why not?
+* Do I find this surprising? Why is that or why is that not the case?
+* How can I apply this in the real world?
+
+### Sources
 
 * [The brain's unlimited capacity \(Article\)](https://www.livescience.com/53751-brain-could-store-internet.html)
+* [How To Read Academic Content Once and Remember it Forever \(Medium\)](https://medium.com/better-humans/how-to-read-academic-content-once-and-remember-it-forever-e44f26d82566)
+* [Well referenced psychology article](https://www.apa.org/science/about/psa/2016/06/learning-memory)
+* [Harvard backed memory study vault](https://www.health.harvard.edu/topics/improving-memory)
 
