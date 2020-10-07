@@ -1,11 +1,12 @@
 # Table of contents
 
 * [Meta](README.md)
-* [Metacognition](metacognition/README.md)
-  * [Learning](metacognition/learning.md)
-  * [Memory](metacognition/untitled.md)
-  * [Sleep](metacognition/sleep.md)
-  * [Habits](metacognition/untitled-1.md)
-  * [Flashcards](metacognition/flashcards.md)
-  * [Nootropics](metacognition/untitled-2.md)
+* [Neuroscience](neuroscience/README.md)
+  * [Metacognition](neuroscience/metacognition/README.md)
+    * [Learning](neuroscience/metacognition/learning.md)
+    * [Memory](neuroscience/metacognition/untitled.md)
+    * [Habits](neuroscience/metacognition/untitled-1.md)
+    * [Flashcards](neuroscience/metacognition/flashcards.md)
+  * [Nootropics](neuroscience/untitled-2.md)
+  * [Sleep](neuroscience/sleep.md)
 
