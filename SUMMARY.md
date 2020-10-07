@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Meta](README.md)
+* [Workflow](workflow.md)
 * [Computer Science](computer-science.md)
 * [Mathematics](mathematics.md)
 * [Neuroscience](neuroscience/README.md)
