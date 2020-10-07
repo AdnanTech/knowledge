@@ -7,5 +7,5 @@
   * [Learning](metacognition/learning.md)
   * [Memory](metacognition/untitled.md)
   * [Habits](metacognition/untitled-1.md)
-  * [Untitled](metacognition/untitled-2.md)
+  * [Nootropics](metacognition/untitled-2.md)
 
