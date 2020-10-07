@@ -118,4 +118,6 @@ The order for most effective study routines:
 * [Elon Musk's advice from his AMA](https://i.imgur.com/AB4o6HS.png)
 * [Difference between knowledge and information](https://www.quora.com/What-is-the-difference-between-information-and-knowledge)
 * [Why exercise is OP](https://www.fastcompany.com/3037894/how-exercise-changes-your-brain-to-be-better-at-basically-everything)
+* [The Art of Learning: An Inner Journey to Optimal Performance by Josh Waitzkin](https://www.amazon.co.uk/Art-Learning-Journey-Optimal-Performance/dp/0743277465)
+* [9 Lessons About Learning How to Learn \(Medium\)](https://medium.com/swlh/9-lessons-about-learning-how-to-learn-e90ef2d8d41c)
 
