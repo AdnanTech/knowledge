@@ -12,4 +12,6 @@
     * [Flashcards](neuroscience/metacognition/flashcards.md)
   * [Nootropics](neuroscience/untitled-2.md)
   * [Sleep](neuroscience/sleep.md)
+* [Operating Systems](operating-systems/README.md)
+  * [Linux](operating-systems/linux.md)
 
