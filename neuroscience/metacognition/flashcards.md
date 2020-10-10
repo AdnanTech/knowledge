@@ -40,7 +40,7 @@
 * **Don’t turn over flashcard until you can answer it**, or have tried your absolute hardest to answer it, even a failed attempt makes you remember the answer better next time
 * **Use tags to group topics**, so you can target flashcards from **different topics** when need be 
 * Use **spaced repetition** AND **manually study your recalls**, this means going beyond just recalling the daily selected flash cards, review topics you feel weak on. 
-* If on the go, use the **anki app**
+* If on the go, use the **Quizlet app**
 * Respond to **flashcards out loud**, promotes metacognition
 * **Type out the answer of the flash card before you answer it**. Then compare, whilst not optimal on the go, if at a desk or whatever then use this technique.
 * **Edit cards when you have a better understanding of a topic**, highlight parts that are hard, refactor the flashcard set.
