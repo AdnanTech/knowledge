@@ -6,7 +6,7 @@
 
 ### The nootropics I'm currently taking: 
 
-* \*\*\*\*[**Centrum sport multivitamins**](https://www.centrum.co.uk/product/centrum-performance) - consensus is that if you do not have a vitamin deficiency from poor diet or lack of efficient absorption, they supplement well, as long as you drink water to avoid kidney stones, [ingredients](https://www.centrum.co.uk/product/centrum-performance):
+* \*\*\*\*[**Centrum sport multivitamins**](https://www.centrum.co.uk/product/centrum-performance) - the consensus is that if you have a vitamin deficiency from poor diet or lack of efficient absorption, multivitamins aid in combating that. There is a caveat of as long as you consume the supplements within moderation and drink plenty of water to avoid [kidney stones](https://blog.providence.org/archive/do-supplements-cause-kidney-stones), [ingredients](https://www.centrum.co.uk/product/centrum-performance):
   * [Vitamin A ](https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-a/)\(RE\) \(50% as [beta-carotene\)](https://www.nhs.uk/conditions/vitamins-and-minerals/others/)
   * [Vitamin B12](https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-b/)
   * [Vitamin D](https://www.nhs.uk/conditions/vitamins-and-minerals/vitamin-d/)
