@@ -16,4 +16,5 @@
   * [Sleep](neuroscience/sleep.md)
 * [Operating Systems](operating-systems/README.md)
   * [Linux](operating-systems/linux.md)
+* [Categories Of Life](categories-of-life.md)
 
