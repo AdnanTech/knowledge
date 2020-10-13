@@ -22,6 +22,10 @@ What or how many books would you like to read this year? What seminars would you
 
 What do you want to stand for? What values do you want have? What level of integrity would you like to operate at?
 
+## Academia
+
+How are my Grades? Are my grades at the level I am aiming for? Am I balancing the course content? Have I set myself up for a good employability prospects? Is university helping me become the person I want to be? 
+
 ## Spirituality
 
 What personal spiritual practices would you like to maintain or begin? How often do you want to pray or meditate? How often do you want to visit church, a meeting, a service, etc.?
