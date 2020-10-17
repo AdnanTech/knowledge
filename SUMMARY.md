@@ -6,6 +6,8 @@
 * [Mathematics](mathematics.md)
 * [Phsycology](phsycology/README.md)
   * [Jordan Peterson](phsycology/jordan-peterson.md)
+* [Productivity](productivity/README.md)
+  * [Study Tips](productivity/study-tips.md)
 * [Neuroscience](neuroscience/README.md)
   * [Metacognition](neuroscience/metacognition/README.md)
     * [Learning](neuroscience/metacognition/learning.md)
