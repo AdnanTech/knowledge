@@ -21,5 +21,5 @@
   * **Specific skills**
   * **Interest**
 
-At university, we should be figuring out who I want to be, and use everything I learnt, and build the person i WANT to be, and not what I SHOULD be.
+At university, we should be figuring out who I want to be, and use everything I learnt, and build the person I WANT to be, and not what I SHOULD be. I should be successful is meaningless, it's empty and bad self critisiscm. Whereas I want to be successful implies you can devise a plan and a routine to reach the _subjective_ success more and more everyday, and once you reach the success, it's likely you will **repeat the process** with even **bigger goals**.
 
