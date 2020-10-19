@@ -36,7 +36,7 @@
 * \*\*\*\*[**Omega-3**](https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/fats-and-cholesterol/types-of-fat/omega-3-fats/)\*\*\*\*
   * known for healthy brain function
 
-Occasionally I participate in water fasts, _please look into fasting and the science of it before attempting any fasting_.
+I also [water fast](https://www.healthline.com/nutrition/water-fasting) from time to time, _everyone should look into fasting, the science and the dangers of it before attempting any fasting_.
 
 ### Sources
 
