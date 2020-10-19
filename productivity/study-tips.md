@@ -1,4 +1,4 @@
-# Study Tips
+# Dr Kanojia
 
 ## Dr K
 
