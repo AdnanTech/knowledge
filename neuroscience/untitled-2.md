@@ -2,7 +2,7 @@
 
 **Nootropics** are drugs, supplements, and other substances that may improve cognitive function, particularly executive functions, memory, creativity, or motivation, in healthy individuals.
 
-**Exercise is the best nootropic**, full stop. Exercising and reading combined are the best natural ways to boost cognitive function
+**Exercise is the best nootropic**, full stop. Exercising and reading combined are the best natural ways to achieve maximum cognitive function.
 
 ### The nootropics I'm currently taking: 
 
