@@ -2,6 +2,8 @@
 
 * [Meta](README.md)
 * [Workflow](workflow.md)
+* [Alan Turing](alan-turing.md)
+* [George Hotz \(geohotz\)](george-hotz-geohotz.md)
 * [Computer Science](computer-science.md)
 * [Mathematics](mathematics.md)
 * [Phsycology](phsycology/README.md)
