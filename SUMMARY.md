@@ -2,14 +2,10 @@
 
 * [Meta](README.md)
 * [Workflow](workflow.md)
-* [Alan Turing](alan-turing.md)
-* [George Hotz \(geohotz\)](george-hotz-geohotz.md)
 * [Computer Science](computer-science.md)
 * [Mathematics](mathematics.md)
-* [Phsycology](phsycology/README.md)
-  * [Jordan Peterson](phsycology/jordan-peterson.md)
-* [Productivity](productivity/README.md)
-  * [Dr Kanojia](productivity/study-tips.md)
+* [Phsycology](phsycology.md)
+* [Productivity](productivity.md)
 * [Neuroscience](neuroscience/README.md)
   * [Metacognition](neuroscience/metacognition/README.md)
     * [Learning](neuroscience/metacognition/learning.md)
@@ -22,4 +18,11 @@
 * [Operating Systems](operating-systems/README.md)
   * [Linux](operating-systems/linux.md)
 * [Categories Of Life](categories-of-life.md)
+
+## People
+
+* [Alan Turing](people/alan-turing.md)
+* [Dr Kanojia](people/study-tips.md)
+* [George Hotz \(geohotz\)](people/george-hotz-geohotz.md)
+* [Jordan Peterson](people/jordan-peterson.md)
 
