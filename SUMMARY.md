@@ -2,6 +2,7 @@
 
 * [Meta](README.md)
 * [Workflow](workflow.md)
+* [Binaural](binaural.md)
 * [Computer Science](computer-science.md)
 * [Mathematics](mathematics.md)
 * [Phsycology](phsycology.md)
