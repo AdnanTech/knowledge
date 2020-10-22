@@ -6,6 +6,8 @@ I also water fast from time to time, _everyone should look into fasting, the sci
 
 [About Water Fasting](https://www.healthline.com/nutrition/water-fasting)
 
+[Paper on Fasting](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4684131/)
+
 ## Intermittent Fasting
 
 [Benefits of Intermittent fasting](https://www.healthline.com/nutrition/10-health-benefits-of-intermittent-fasting)
