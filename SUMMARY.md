@@ -14,6 +14,7 @@
     * [Memory](neuroscience/metacognition/untitled.md)
     * [Habits](neuroscience/metacognition/untitled-1.md)
     * [Flashcards](neuroscience/metacognition/flashcards.md)
+    * [Focus](neuroscience/metacognition/focus.md)
   * [Nootropics](neuroscience/untitled-2.md)
   * [Fasting](neuroscience/fasting.md)
   * [Sleep](neuroscience/sleep.md)
