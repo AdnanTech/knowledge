@@ -1,16 +1,17 @@
 # Workflow
 
 * Trello for Projects
+* Trello for To Do
 * Habitica for habit tracker \(habits/daily\)
 * Gitbook spaces for:
   * Knowledge
-  * Uni Notes
+  * University Notes
   * Code base
   * Work documentation
   * Side Projects 
-  * Uni Project
+  * University Project
 * Jira for Work
-* Canvas for Uni
+* Canvas for University
 
 
 
