@@ -8,7 +8,7 @@
 * [Productivity](productivity/README.md)
   * [Busy vs Productive](productivity/busy-vs-productive.md)
   * [Information Overload](productivity/junk-thoughts.md)
-  * [What vs How To think](productivity/what-vs-how-to-think.md)
+  * [What to think vs How to think](productivity/what-vs-how-to-think.md)
 * [Neuroscience](neuroscience/README.md)
   * [Metacognition](neuroscience/metacognition/README.md)
     * [Learning](neuroscience/metacognition/learning.md)
