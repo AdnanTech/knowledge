@@ -11,8 +11,7 @@
 * [**Peter Norvig - On Chomsky and the Two Cultures of Statistical Learning**](http://norvig.com/chomsky.html)
 * [**Meta Nomad**](https://www.meta-nomad.net/)
 * Hackernews stuff
-
-[Talking hour ](https://gist.github.com/mickeypash/b0b22ab84495fe4b033895a79dd78468)notes
+* [Talking hour ](https://gist.github.com/mickeypash/b0b22ab84495fe4b033895a79dd78468)notes
 
 
 
