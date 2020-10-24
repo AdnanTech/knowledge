@@ -10,7 +10,7 @@
 * [**Slate Star Codex - LINKS 5/17: RIP VAN LINKLE**](https://web.archive.org/web/20200403110538/https://slatestarcodex.com/2017/05/09/links-517-rip-van-linkle/)
 * [**Peter Norvig - On Chomsky and the Two Cultures of Statistical Learning**](http://norvig.com/chomsky.html)
 * [**Meta Nomad**](https://www.meta-nomad.net/)
-* Hackernews stuff
+* [Hackernews ](https://news.ycombinator.com/)stuff
 * [Talking hour ](https://gist.github.com/mickeypash/b0b22ab84495fe4b033895a79dd78468)notes
 
 
