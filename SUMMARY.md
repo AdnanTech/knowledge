@@ -4,6 +4,7 @@
 * [Workflow](workflow.md)
 * [Biohacking](biohacking.md)
 * [Computer Science](computer-science.md)
+* [Gamification](gamification.md)
 * [Mathematics](mathematics.md)
 * [Neuroscience](neuroscience/README.md)
   * [Metacognition](neuroscience/metacognition/README.md)
