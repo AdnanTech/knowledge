@@ -2,6 +2,7 @@
 
 * [Meta](README.md)
 * [Workflow](workflow.md)
+* [Biohacking](biohacking.md)
 * [Computer Science](computer-science.md)
 * [Mathematics](mathematics.md)
 * [Neuroscience](neuroscience/README.md)
