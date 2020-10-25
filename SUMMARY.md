@@ -28,6 +28,7 @@
 ## People
 
 * [Alan Turing](people/alan-turing.md)
+* [Dave Asprey](people/dave-asprey.md)
 * [Dr Kanojia](people/study-tips.md)
 * [James Clear](people/james-clear.md)
 * [George Hotz \(geohotz\)](people/george-hotz-geohotz.md)
