@@ -35,6 +35,7 @@
   * [l-theanine](https://www.medicalnewstoday.com/articles/324120#benefits)\*\*\*\*
 * \*\*\*\*[**Omega-3**](https://www.hsph.harvard.edu/nutritionsource/what-should-you-eat/fats-and-cholesterol/types-of-fat/omega-3-fats/)\*\*\*\*
   * known for healthy brain function
+* \*\*\*\*[**Valerian Root**](https://www.healthline.com/nutrition/valerian-root#TOC_TITLE_HDR_5) herbal sleep medicine
 
 ### Sources
 
