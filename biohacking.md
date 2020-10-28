@@ -4,11 +4,13 @@
 
 Biohacking can be defined as the attempt to manipulate your brain and body in order to **optimize performance**, outside the realm of _traditional medicine_. Below are my current biohacking techniques.
 
-## Eyes
+## Eyes & Light
 
-### Blue light blocking glasses
+### Blue light
 
-Wearing [glasses ](https://www.amazon.co.uk/DUCO-Anti-Glare-Protection-Anti-Fatigue-Smartphone/dp/B071DGFZG7?th=1)that have a blue light filter, or using f.lux to **reduce eye strain** when staring at screen for extended periods of time. This allows you to work for longer.
+Wearing [glasses ](https://www.amazon.co.uk/DUCO-Anti-Glare-Protection-Anti-Fatigue-Smartphone/dp/B071DGFZG7?th=1)that have a blue light filter during the evening, or using f.lux to **reduce digital eye strain** when staring at computer screens for extended periods of time. This allows you to work for longer.
+
+Note: 30 minutes of blue light in the morning can be beneficial in some ways, according to this [article](https://thesleepdoctor.com/2017/11/06/latest-blue-light-sleep/), when mentions this [study](https://www.medscape.com/viewarticle/864931), 30 minutes of blue light in the morning can lead to better working memory performance and faster reaction times.
 
 ### Eye drops
 
