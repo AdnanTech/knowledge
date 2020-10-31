@@ -2,9 +2,13 @@
 
 * [Meta](README.md)
 * [Workflow](workflow.md)
+
+## Science & Technology
+
+---
+
 * [Biohacking](biohacking.md)
 * [Computer Science](computer-science.md)
-* [Gamification](gamification.md)
 * [Mathematics](mathematics.md)
 * [Neuroscience](neuroscience/README.md)
   * [Metacognition](neuroscience/metacognition/README.md)
@@ -24,14 +28,18 @@
   * [Busy vs Productive](productivity/busy-vs-productive.md)
   * [Information Overload](productivity/junk-thoughts.md)
   * [What to think vs How to think](productivity/what-vs-how-to-think.md)
-* [Categories Of Life](categories-of-life.md)
+
+## Philosophy
+
+* [Categories Of Life](philosophy/categories-of-life.md)
+* [Gamification](philosophy/gamification.md)
 
 ## People
 
 * [Alan Turing](people/alan-turing.md)
 * [Dave Asprey](people/dave-asprey.md)
 * [Dr Kanojia](people/study-tips.md)
-* [James Clear](people/james-clear.md)
 * [George Hotz \(geohotz\)](people/george-hotz-geohotz.md)
+* [James Clear](people/james-clear.md)
 * [Jordan Peterson](people/jordan-peterson.md)
 

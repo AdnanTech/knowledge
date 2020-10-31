@@ -1,6 +1,6 @@
 # Workflow
 
-I think my workflow is scoped very large at the moment, I intend to break this down into a more focused workflow where I have one software to handle all of my workflow and note-taking in the future. Perhaps I could build an application on my own. Or integrate everything into GitBook if I purchase the pro version. I have also heard Notion is a good hub for notes management. 
+I think my workflow is scoped very large at the moment, I intend to break this down into a more focused workflow where I have one software to handle all of my workflow and note-taking in the future. Perhaps I could build an application on my own. Or integrate everything into GitBook if I purchase the pro version. I have also heard Notion is a good content management system for notes management. 
 
 * Trello for Projects
 * Trello for To Do
