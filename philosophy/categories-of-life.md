@@ -56,7 +56,7 @@ Work is current job, Do I enjoy my job? Am I learning? Does this job lead to som
 
 ## Quality Of Life
 
-Where would you like to live? What would you like your home or car to look like? Where would you like to travel? How does your daily life look?
+Where would you like to live? What would you like your home or car to look like? Where would you like to travel? How does your daily life look? Is it comfortable? Are you overwhelmed? Is everything in place how you want it to be? [Engaged Theory](https://en.wikipedia.org/wiki/Quality_of_life#Engaged_Theory)
 
 ## Life Vision
 
