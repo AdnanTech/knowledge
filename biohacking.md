@@ -4,6 +4,12 @@
 
 Biohacking can be defined as the attempt to manipulate your brain and body in order to **optimize performance**, outside the realm of _traditional medicine_. Below are my current biohacking techniques.
 
+## Diet
+
+### Green Tea
+
+* [Healthline article on Green Tea](https://www.healthline.com/nutrition/top-10-evidence-based-health-benefits-of-green-tea)
+
 ## Eyes & Light
 
 ### Blue light
