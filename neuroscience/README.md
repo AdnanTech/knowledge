@@ -1,2 +1,2 @@
-# Neuroscience
+# Cognitive Science
 
