@@ -4,7 +4,7 @@ Ebbinghaus’ forgetting curve brings to light how quickly humans forget newly a
 
 People forget 40% of what they learned in 20 minutes and 77% of what they learned in six days. People forget 90% after one month. People forget 50-80% of what they’ve learned after one day and 97-98% after a month
 
-![](../../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%281%29.png)
 
 ## Sources
 
