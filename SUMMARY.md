@@ -23,6 +23,7 @@
   * [Pomodoro](neuroscience/pomodoro/README.md)
     * [Hermann Ebbinghaus’ Forgetting Curve](neuroscience/pomodoro/hermann-ebbinghaus-forgetting-curve.md)
   * [Parkinson's Law](neuroscience/parkinsons-law.md)
+  * [Music](neuroscience/music.md)
 * [Neuroscience](neuroscience-1/README.md)
   * [Nootropics](neuroscience-1/untitled-2.md)
   * [Sleep](neuroscience-1/sleep.md)
@@ -34,6 +35,7 @@
   * [Information Overload](productivity/junk-thoughts.md)
   * [What to think vs How to think](productivity/what-vs-how-to-think.md)
   * [Productivity Methods](productivity/productivity-methods.md)
+  * [Phone](productivity/phone.md)
 
 ## Philosophy
 
