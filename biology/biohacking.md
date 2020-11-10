@@ -10,6 +10,10 @@ Biohacking can be defined as the attempt to manipulate your brain and body in or
 
 * [Healthline article on Green Tea](https://www.healthline.com/nutrition/top-10-evidence-based-health-benefits-of-green-tea)
 
+## Timing
+
+* [Finding your biology prime time](https://alifeofproductivity.com/calculate-biological-prime-time/)
+
 ## Eyes & Light
 
 ### Blue light

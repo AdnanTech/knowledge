@@ -7,11 +7,12 @@
 
 ---
 
-* [Biohacking](biohacking.md)
+* [Overview](overview.md)
+* [Biology](biology/README.md)
+  * [Biohacking](biology/biohacking.md)
 * [Computer Science](computer-science/README.md)
   * [Operating Systems](computer-science/operating-systems/README.md)
     * [Linux](computer-science/operating-systems/linux.md)
-* [Mathematics](mathematics.md)
 * [Cognitive Science](neuroscience/README.md)
   * [Metacognition](neuroscience/metacognition/README.md)
     * [Learning](neuroscience/metacognition/learning.md)
@@ -24,6 +25,8 @@
   * [Parkinson's Law](neuroscience/parkinsons-law.md)
   * [Music](neuroscience/music.md)
   * [Conversations](neuroscience/conversations.md)
+* [Intelligence](intelligence.md)
+* [Mathematics](mathematics.md)
 * [Neuroscience](neuroscience-1/README.md)
   * [Nootropics](neuroscience-1/untitled-2.md)
   * [Sleep](neuroscience-1/sleep.md)
@@ -38,6 +41,8 @@
     * [Long/Short Breaks](productivity/pomodoro/long-short-breaks.md)
   * [Productivity Methods](productivity/productivity-methods.md)
   * [Phone](productivity/phone.md)
+* [Writing](writing/README.md)
+  * [Blogging](writing/blogging.md)
 
 ## Philosophy
 
@@ -56,6 +61,17 @@
 ## Programming
 
 * [Tools](programming/tools/README.md)
+  * [GitBook](programming/tools/gitbook.md)
   * [MSYS2](programming/tools/msys2.md)
   * [Vim](programming/tools/vim.md)
+  * [LaTeX](programming/tools/latex.md)
+  * [Amazon EC2](programming/tools/amazon-ec2.md)
+
+## Devices
+
+* [Laptops](devices/laptops/README.md)
+  * [Battery Health](devices/laptops/battery-health.md)
+  * [Fan Control](devices/laptops/fan-control.md)
+  * [Undervolting](devices/laptops/undervolting.md)
+  * [Docking Station](devices/laptops/docking-station.md)
 
