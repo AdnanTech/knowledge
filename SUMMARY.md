@@ -27,6 +27,7 @@
   * [Conversations](neuroscience/conversations.md)
 * [Intelligence](intelligence.md)
 * [Mathematics](mathematics.md)
+* [Meditation](meditation.md)
 * [Neuroscience](neuroscience-1/README.md)
   * [Nootropics](neuroscience-1/untitled-2.md)
   * [Sleep](neuroscience-1/sleep.md)
