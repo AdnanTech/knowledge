@@ -10,10 +10,15 @@ Health, Mental clarity, fitness and cognitive performance
 
 ## Can I chew gum whilst fasting?
 
-I personally do not as chewing gum will make you hungry and increase your insulin, since chewing begins the digestion process so your body will be preparing for food that never comes
+I personally do not as chewing gum will make you hungry and increase your insulin, since chewing begins the digestion process so your body will be preparing for food that never comes. Although, it doesn't have any major effect on your fast.
+
+## Can I have multivitamins during a fast?
+
+Because vitamins are fat soluble, they should be taken with food, to reap the maximum benefits. So adjust the timing of consumption of vitamins to when you consume foods with fat, after you break your fast.
 
 ## Sources
 
 * [Healthline article on Intermittent Fasting](https://www.healthline.com/nutrition/intermittent-fasting-guide)
 * Read Dr. Fung's advice
+* [Article on why multivitamins are fat soluble therefore need to be taken with food](https://www.henryford.com/blog/2016/03/8-myths-about-vitamin-supplements)
 
