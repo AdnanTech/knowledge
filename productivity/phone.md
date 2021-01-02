@@ -6,5 +6,5 @@ It's 2020, we have extremely powerful mini computers in our pockets, along with 
 
 ## During Work
 
-During work, the phone stays away from me, on the other side of my room, on do not disturb. This is so that I do not get distracted by mindlessly going on apps and such. The other approach is to have enough willpower to not touch it, but this requires energy, I wanted the habit of going on my phone during work to be[ difficult, unattractive, invisible and unsatisfying](../cognitive-science/metacognition/untitled-1.md#how-to-break-a-bad-habit-the-opposite).
+During work, the phone stays away from me, on the other side of my room, on do not disturb. This is so that I do not get distracted by mindlessly going on apps and such. The other approach is to have enough willpower to not touch it, but this requires energy, I wanted the habit of going on my phone during work to be[ difficult, unattractive, invisible and unsatisfying](../cognitive-science/metacognition/habits.md#how-to-break-a-bad-habit-the-opposite).
 
