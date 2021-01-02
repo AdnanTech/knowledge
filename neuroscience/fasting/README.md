@@ -10,7 +10,7 @@ I also water fast from time to time, _everyone should be aware of the science an
 
 ## Intermittent Fasting
 
-
+[Autophagy](https://www.healthline.com/health/autophagy)
 
 [Benefits of Intermittent fasting](https://www.healthline.com/nutrition/10-health-benefits-of-intermittent-fasting)
 
