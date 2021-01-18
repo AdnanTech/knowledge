@@ -10,6 +10,8 @@
 * [Overview](overview.md)
 * [Biology](biology/README.md)
   * [Biohacking](biology/biohacking.md)
+* [Career](career/README.md)
+  * [Burnout](career/burnout.md)
 * [Computer Science](computer-science/README.md)
   * [Operating Systems](computer-science/operating-systems/README.md)
     * [Linux](computer-science/operating-systems/linux.md)
