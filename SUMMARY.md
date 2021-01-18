@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Meta](README.md)
+* [Productivity Advice](productivity-advice.md)
 * [Workflow](workflow.md)
 
 ## Science & Technology
